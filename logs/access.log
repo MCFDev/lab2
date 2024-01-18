@@ -1,0 +1,7 @@
+127.0.0.1 - - [04/Jan/2024:18:01:38 +0000] "GET / HTTP/1.1" 200 379 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0"
+127.0.0.1 - - [04/Jan/2024:18:01:39 +0000] "GET /home.html HTTP/1.1" 200 1825 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0"
+127.0.0.1 - - [04/Jan/2024:18:01:39 +0000] "GET /images/Keizersgracht-Reguliersgracht-Amsterdam.jpg HTTP/1.1" 200 122067 "http://localhost/home.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0"
+127.0.0.1 - - [04/Jan/2024:18:01:39 +0000] "GET /favicon.ico HTTP/1.1" 200 1150 "http://localhost/home.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0"
+127.0.0.1 - - [04/Jan/2024:18:06:51 +0000] "GET /Multimedia.html HTTP/1.1" 200 1611 "http://localhost/home.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0"
+127.0.0.1 - - [04/Jan/2024:18:06:51 +0000] "GET /images/Keizersgracht-Reguliersgracht-Amsterdam.jpg HTTP/1.1" 304 0 "http://localhost/Multimedia.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0"
+127.0.0.1 - - [04/Jan/2024:18:06:54 +0000] "GET /info.html HTTP/1.1" 200 3205 "http://localhost/Multimedia.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0"
